@@ -48,23 +48,21 @@
 <tr>
 <td width="55%" valign="top">
 
-### 👾 About Me
+### 👨‍💻 About Me
 
-```js
-const vishnu = {
-  name    : "Vishnu Vardhan Reddy",
-  role    : "Frontend Dev & AI Enthusiast",
-  location: "India 🇮🇳",
-  stack   : ["HTML", "CSS", "JS", "Python"],
-  ai_ml   : ["TensorFlow", "PyTorch"],
-  learning: ["React", "Node.js", "Flask"],
-  motto   : "Build. Break. Learn. Repeat. 🚀"
-};
-```
+Hey there! I'm **Vishnu Vardhan Reddy**, a passionate **Frontend Developer & AI Enthusiast** from India 🇮🇳, driven by the goal of building intelligent, user-centric web experiences.
+
+- 🎓 Currently pursuing my engineering degree, sharpening skills in **Web Development & AI/ML**
+- 🔭 Building projects that blend **modern UI design** with **machine learning**
+- 🌱 Actively learning **React, Node.js & Flask** to go full-stack
+- 🤖 Exploring **TensorFlow & PyTorch** for real-world AI applications
+- 🏆 Participated in **Smart India Hackathon** — built an AI-based solution
+- 💡 Firm believer in: *Build. Break. Learn. Repeat. 🚀*
+- 🤝 Open to **Internships, Collaborations & Open Source contributions**
 
 </td>
 <td width="45%" align="center" valign="middle">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="260" alt="Coding animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding animation"/>
 </td>
 </tr>
 </table>
